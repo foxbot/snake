@@ -1,0 +1,8 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["Christopher F <foxbot@protonmail.com>"]
+
+[dependencies]
+rand = "0.3"
+nix = "0.8"
